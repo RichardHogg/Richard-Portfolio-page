@@ -1,0 +1,100 @@
+body {
+  font-family: Times;
+  background: no-repeat, center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.topnav {
+  background-color: #252;
+  overflow: hidden;
+}
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 8px 20px;
+  text-decoration: none;
+  font-size: 20px;
+}
+img {
+  border-radius: 5%;
+  width: 200px;
+}
+.spacer {
+  padding:1%;
+}
+.block1 {
+  background-color: none;
+  color: black;
+  font-size: 2em;
+}
+.btn1 {
+  font-size: 20px;
+  border-radius: 5%;
+  background: #252;
+  color: white;
+  text-shadow: 0px 0px 0px white;
+  -webkit-text-fill-color: transparent;
+  padding: 0.5%;
+  margin: 10px;
+}
+.btn2 {
+  font-size: 20px;
+  border-radius: 5%;
+  background: #252;
+  color: white;
+  text-shadow: 0px 0px 0px white;
+  -webkit-text-fill-color: transparent;
+  padding: 0.5%;
+  margin: 10px;
+}
+.btn3 {
+  font-size: 20px;
+  border-radius: 5%;
+  background: #252;
+  color: white;
+  text-shadow: 0px 0px 0px white;
+  -webkit-text-fill-color: transparent;
+  padding: 0.5%;
+  margin: 10px;
+}
+.btn4 {
+  font-size: 20px;
+  border-radius: 5%;
+  background: #252;
+  color: white;
+  text-shadow: 0px 0px 0px white;
+  -webkit-text-fill-color: transparent;
+  padding: 0.5%;
+  margin: 10px;
+}
+.block2 {
+  background-color: black;
+  margin: auto;
+  width: 50%;
+  color: white;
+  font-size: 1em;
+  border-radius: 15px;
+  opacity: 0.8;
+}
+.block3 {
+  background-color: black;
+  margin: auto;
+  width: 50%;
+  color: white;
+  font-size: 1em;
+  border-radius: 15px;
+  opacity: 0.8;
+}
+.block4 {
+  background-color: black;
+  margin: auto;
+  width: 50%;
+  color: white;
+  font-size: 1em;
+  border-radius: 15px;
+  opacity: 0.8;
+}
